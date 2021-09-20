@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/fm_four-card-feature-section/static/js/main.8364bae5.chunk.js",
+    "main.js.map": "/fm_four-card-feature-section/static/js/main.8364bae5.chunk.js.map",
+    "runtime-main.js": "/fm_four-card-feature-section/static/js/runtime-main.ef8b867a.js",
+    "runtime-main.js.map": "/fm_four-card-feature-section/static/js/runtime-main.ef8b867a.js.map",
+    "static/js/2.19eb93f8.chunk.js": "/fm_four-card-feature-section/static/js/2.19eb93f8.chunk.js",
+    "static/js/2.19eb93f8.chunk.js.map": "/fm_four-card-feature-section/static/js/2.19eb93f8.chunk.js.map",
+    "index.html": "/fm_four-card-feature-section/index.html",
+    "static/js/2.19eb93f8.chunk.js.LICENSE.txt": "/fm_four-card-feature-section/static/js/2.19eb93f8.chunk.js.LICENSE.txt",
+    "static/media/icon-calculator.21bc9adc.svg": "/fm_four-card-feature-section/static/media/icon-calculator.21bc9adc.svg",
+    "static/media/icon-karma.24e0debe.svg": "/fm_four-card-feature-section/static/media/icon-karma.24e0debe.svg",
+    "static/media/icon-supervisor.2dd10a2d.svg": "/fm_four-card-feature-section/static/media/icon-supervisor.2dd10a2d.svg",
+    "static/media/icon-team-builder.b885fb58.svg": "/fm_four-card-feature-section/static/media/icon-team-builder.b885fb58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef8b867a.js",
+    "static/js/2.19eb93f8.chunk.js",
+    "static/js/main.8364bae5.chunk.js"
+  ]
+}
