@@ -16,6 +16,13 @@ const theme = {
         regular: 400,
         semiBold: 600,
     },
+    breakpoints: {
+        portraitSmartphone: 'min-width: 480px',
+        portraitTablets: 'min-width: 600px',
+        landscapeTablets: 'min-width: 801px',
+        laptops: 'min-width: 1025px',
+        desktops: 'min-width: 1281px',
+    },
 };
 
 const Theme = ({ children }) => {
